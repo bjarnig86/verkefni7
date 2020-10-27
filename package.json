@@ -1,0 +1,17 @@
+{
+  "name": "verkefni7",
+  "version": "1.0.0",
+  "description": "Dulkóðun Cesars",
+  "main": "scripts.js",
+  "dependencies": {
+    "browser-sync": "^2.26.13",
+    "eslint": "^7.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "author": "Bjarni Guðmundsson",
+  "license": "ISC"
+}
